@@ -1,0 +1,12 @@
+{
+    "name": "frederic/simplon-13-17-04",
+    "description": "Evaluation sql",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JFrederic",
+            "email": "frederic-jouan97440@outlook.fr"
+        }
+    ],
+    "require": {}
+}

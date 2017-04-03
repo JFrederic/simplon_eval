@@ -1,0 +1,13 @@
+Code mnémonique Désignation                                       Type      TaillRemarque
+id_u            Identifiant d'un utilisateur                      N
+nom_u           Nom d'un utilisateur                              A            30
+prenom_u        Prenom d'un utilisateur                           A            30
+email_u         Email d'un utilisateur                            A            50
+role_u          Type d'utilisateur                                A            30
+id_r            Identifiant d'une réservation                     N
+date_r          Date de réservation                               DATE           Au format AAAA-JJ-MM
+paiement_r      Payé ou pas                                       A            50
+utilisateurId_r Identifiant de la l'utilisateur qui fait la réservN
+id_t            Identifiant du terrain                            N
+lieux_t         Lieux du terrain                                  A
+disponibilité_t Disponibilité du terrain                          Booléen
